@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-permalink: /
+permalink: /home
 ---
 
 # Other Demo Pages
