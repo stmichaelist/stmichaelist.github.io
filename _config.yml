@@ -1,6 +1,6 @@
 title: 'stmichaelist.github.io'
 description: "My Journey"
-baseurl: "/jekyll-theme-console-demo-hacker"
+baseurl: "/"
 url: "https://stmichaelist.github.io"
 
 header_pages:
