@@ -1,7 +1,7 @@
 ---
-title: início
+title: home
 layout: home
-permalink: /inicio
+permalink: /home
 ---
 
 # Welcome
