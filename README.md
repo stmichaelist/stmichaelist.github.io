@@ -1,2 +1,2 @@
 # de ja vu
-This is a demo site for the jekyll-theme-console theme.
+Senta e aprecie minha trajetória até o TOP 1 tryhackme, hackthebox. Rumo ao CPTS e OSCP.
