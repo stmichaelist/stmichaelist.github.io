@@ -1,6 +1,6 @@
 ---
 title: início
-layout: inicio
+layout: home
 permalink: /inicio
 ---
 
