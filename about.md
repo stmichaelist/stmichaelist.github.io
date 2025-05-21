@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
 # Por que eu decidi fazer esse blog?
