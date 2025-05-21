@@ -6,13 +6,15 @@ permalink: /about/
 
 # Por que eu decidi fazer esse blog?
 
-Faz algum tempo que eu desenvolvi interesse por segurança da informação, mas meu problema sempre foi como começar.
-Todas as fontes que você encontra sobre o assunto pela internet deixam claro que essa área não é entry-level, ou seja, precisa de um domínimo amplo de uma série de conteúdos pra você de fato poder exercer a área.
-No Ensino Médio, entrei em um curso técnico na ilusão de me tornar um programador, mas logo vi que a carreira não era pra mim e, pra acompanhar, também acabei pegando certa repulsa por Redes de Computadores de tabela.
-Passei um tempo decidindo que área seguir, porque minha primeira experiência não tinha sido tão boa e acabei por tentar dar mais uma chance à computação, porque sempre ouvi dizer que as matérias abordadas em um curso técnico não tem a mesma profundidade que na graduação.
-Nesse contexto, faz algum tempo que eu desenvolvi interesse por segurança da informação, mas meu problema sempre foi como começar.
-Todas as fontes que você encontra sobre o assunto pela internet deixam claro que essa área não é entry-level, ou seja, precisa de um domínimo amplo de uma série de conteúdos pra você de fato poder exercer a área.
-Pra correr atrás da minha falta de conhecimento pra me introduzir na área, eu estudei pra tirar o CCNA (Cisco Certified Network Associate), e acabei me apaixonando por redes, por um lado que não me foi previamente apresentado.
-Com um tempo já exposto também a todo esse conteúdo, eu só dei um 'basta' e decidi me jogar aos leões, porque acabou que aprendi que realmente não tem como começar, a não ser começando.
+Faz algum tempo que desenvolvi interesse por segurança da informação, mas meu problema sempre foi: como começar?
+Todas as fontes que você encontra na internet sobre o assunto deixam claro que essa área não é entry-level, ou seja, exige um domínio amplo de uma série de conteúdos para que você, de fato, possa atuar nela.
 
-Esse blog é pra documentar minha caminhada ao primeiro lugar do ranking do tryhackme, hackthebox (por desejo pessoal), e meus estudos até a certificação do CPTS (HTB Certified Penetration Testing Specialist) e OSCP (OffSec Certified Professional).
+No Ensino Médio, entrei em um curso técnico na ilusão de me tornar programador, mas logo percebi que aquela carreira não era para mim. Como consequência, acabei pegando certa repulsa por Redes de Computadores também — por tabela.
+Passei um tempo tentando decidir que área seguir, porque minha primeira experiência não tinha sido tão boa. Ainda assim, resolvi dar mais uma chance à computação, já que sempre ouvi dizer que as matérias abordadas em um curso técnico não têm a mesma profundidade que na graduação.
+
+Nesse contexto, fui me aproximando cada vez mais da segurança da informação, mas ainda com a mesma dúvida: por onde começar?
+Para correr atrás do prejuízo e tentar entrar na área, estudei para tirar o CCNA (Cisco Certified Network Associate) — e, para minha surpresa, acabei me apaixonando por Redes, um lado que nunca tinha me sido apresentado de verdade.
+
+Com o tempo já exposto a todo esse conteúdo, simplesmente decidi dar um "basta" e me jogar aos leões. Percebi que, no fim das contas, não existe um momento ideal para começar — você só começa, começando.
+
+Este blog é para documentar minha caminhada rumo ao primeiro lugar no ranking do TryHackMe e Hack The Box (por desejo pessoal), e também meus estudos até as certificações CPTS (HTB Certified Penetration Testing Specialist) e OSCP (OffSec Certified Professional).
