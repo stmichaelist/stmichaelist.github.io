@@ -12,4 +12,4 @@ Os que faltam entrar do que eu estudei com certeza são os hash-crackers: john, 
 
 são muitos pra lembrar de cabeça, então segue o link do gitbook com os comandos, pra caso venha interessar alguém:
 
-[Vá para o Gitbook]([url](https://anotacoes-do-imperador.gitbook.io/comandos-pentesting))
+[Vá para o Gitbook][url](https://anotacoes-do-imperador.gitbook.io/comandos-pentesting)
