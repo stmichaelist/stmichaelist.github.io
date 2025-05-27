@@ -9,5 +9,3 @@ categories:
 Como primeira postagem dessa que eu acredito que vai ser uma longa, mas no mínimo proveitosa jornada, gostaria de registrar o gitbook que produzi depois de 11 dias seguidos de tryhackme (vi a necessidade de armazenar os comandos que venho aprendendo até aqui).
 São muitos pra lembrar de cabeça, então segue o link do gitbook com os comandos, pra caso venha interessar alguém:
 [Vá para o Gitbook]([url](https://anotacoes-do-imperador.gitbook.io/comandos-pentesting))
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4764259" style='border:none;'></iframe>
