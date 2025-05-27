@@ -13,7 +13,7 @@ No Ensino Médio, entrei em um curso técnico na ilusão de me tornar programado
 Passei um tempo tentando decidir que área seguir, porque minha primeira experiência não tinha sido tão boa. Ainda assim, resolvi dar mais uma chance à computação, já que sempre ouvi dizer que as matérias abordadas em um curso técnico não têm a mesma profundidade que na graduação.
 
 Nesse contexto, fui me aproximando cada vez mais da segurança da informação, mas ainda com a mesma dúvida: por onde começar?
-Para correr atrás do prejuízo e tentar entrar na área, estudei para tirar o CCNA (Cisco Certified Network Associate) — e, para minha surpresa, acabei me apaixonando por Redes, um lado que nunca tinha me sido apresentado de verdade.
+Para correr atrás do prejuízo e tentar entrar na área, junto com uma enorme teimosia por achar que eu preciso entender o 'core' antes de ir pra alguns assuntos da computação, estudei para tirar o CCNA (Cisco Certified Network Associate) — e, para minha surpresa, acabei me apaixonando por Redes, um lado que nunca tinha me sido apresentado de verdade.
 
 Com o tempo já exposto a todo esse conteúdo, simplesmente decidi dar um "basta" e me jogar aos leões. Percebi que, no fim das contas, não existe um momento ideal para começar — você só começa, começando.
 
