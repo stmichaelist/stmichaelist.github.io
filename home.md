@@ -4,6 +4,6 @@ layout: home
 permalink: /home
 ---
 
-# Welcome
+# Bem-vindo.
 
 Últimas postagens:
